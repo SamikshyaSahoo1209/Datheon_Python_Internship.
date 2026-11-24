@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Rule-Based Interactive Terminal Assistant / Chatbot
 
@@ -30,3 +31,7 @@ python chatbot.py
 
 ## Developer
 Samikshya Sahoo
+=======
+# Datheon_Python_Internship.
+A collection of Python projects completed as part of my Datheon Python Internship. This repository contains projects demonstrating Python programming, problem-solving, and practical application development.
+>>>>>>> d990838cb83c371e126fbaa1539f00854f736401
